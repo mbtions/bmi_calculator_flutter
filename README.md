@@ -19,12 +19,14 @@ samples, guidance on mobile development, and a full API reference.
 
 1. **User 1**
 
-    ![Output 1 Image 1]('git-files/output1-android.png')
+    ![Output 1 Image 1]('./git-files/output1-android.png')  
+    
     ![Output 1 Image 2]('./git-files/output1-result-android.png')
 
 2. **User 2**
 
-    ![Output 2 Image 1]('git-files\output2-android.png')
+    ![Output 2 Image 1]('git-files\output2-android.png')  
+    
     ![Output 2 Image 2]('git-files\output2-result-android.png')  
 
 ## Functionalities Used in this Application
