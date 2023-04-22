@@ -19,15 +19,11 @@ samples, guidance on mobile development, and a full API reference.
 
 1. **User 1**
 
-    <img src="./git-files/output1-android.png" width=400>  
-    
-    ![Output 1 Image 1](./git-files/output1-android.png) ![Output 1 Image 2](./git-files/output1-result-android.png)
+    <img src="./git-files/output1-android.png" width=400>  <img src="./git-files/output1-result-android.png" width=400>  
 
 2. **User 2**
 
-    ![Output 2 Image 1]('git-files\output2-android.png')  
-    
-    ![Output 2 Image 2]('git-files\output2-result.png')  
+    <img src="./git-files/output2-android.png" width=400>  <img src="./git-files/output2-result.png" width=400>  
 
 ## Functionalities Used in this Application
 
