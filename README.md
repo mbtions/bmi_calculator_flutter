@@ -19,11 +19,11 @@ samples, guidance on mobile development, and a full API reference.
 
 1. **User 1**
 
-    <img src="./git-files/output1-android.png" width=400>  <img src="./git-files/output1-result-android.png" width=400>  
+    <img src="./git-files/output1-android.png" width=200>          <img src="./git-files/output1-result-android.png" width=200>  
 
 2. **User 2**
 
-    <img src="./git-files/output2-android.png" width=400>  <img src="./git-files/output2-result.png" width=400>  
+    <img src="./git-files/output2-android.png" width=200>          <img src="./git-files/output2-result.png" width=200>  
 
 ## Functionalities Used in this Application
 
