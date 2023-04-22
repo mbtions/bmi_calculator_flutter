@@ -27,7 +27,7 @@ samples, guidance on mobile development, and a full API reference.
 
     ![Output 2 Image 1]('git-files\output2-android.png')  
     
-    ![Output 2 Image 2]('git-files\output2-result-android.png')  
+    ![Output 2 Image 2]('git-files\output2-result.png')  
 
 ## Functionalities Used in this Application
 
