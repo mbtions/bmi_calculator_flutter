@@ -19,6 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 
 1. **User 1**
 
+    <img src="./git-files/output1-android.png" width=400>  
+    
     ![Output 1 Image 1](./git-files/output1-android.png) ![Output 1 Image 2](./git-files/output1-result-android.png)
 
 2. **User 2**
