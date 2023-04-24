@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:bmi_calculator_flutter/screens/input_page.dart';
+import 'package:bmi_calculator_flutter/constants.dart';
 
-const themeColor = Color(0xFF0A0E21);
 void main() => runApp(const BMICalculator());
 
 class BMICalculator extends StatelessWidget {
